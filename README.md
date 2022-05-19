@@ -1,4 +1,4 @@
-# Verification-Bot
+# Gbot Lite
 
 ![image](https://media.discordapp.net/attachments/967646330283503627/976821786140377098/approved.png)
 
