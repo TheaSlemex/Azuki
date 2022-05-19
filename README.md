@@ -9,5 +9,5 @@
 - Run Start.bat
 - Enjoy..
 
-# Thanks To
-Credit : GuckProject
+# Credit
+- GuckProject
