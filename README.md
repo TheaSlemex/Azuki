@@ -4,7 +4,7 @@
 
 # Setup
 - Download NodeJs [Here](https://nodejs.org/en/)
-- Run Install.bat
+- Run Installer.bat
 - Don't Forget To Edit `config.json`
 - Run Start.bat
 - Enjoy..
