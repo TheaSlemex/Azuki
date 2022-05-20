@@ -1,5 +1,4 @@
 {
   "token": "TOKEN_BOT", //Token
-  "prefix": "gt!", //Prefix
-  "api": "hWtkAvhl2f" //Premium API
+  "prefix": "gt!" //Prefix
 }
